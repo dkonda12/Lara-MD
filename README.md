@@ -36,6 +36,10 @@
 <h3>SEVER ❷</h3>
 <div align="center">
 <button><tr><a href="https://webpair-mega-1.onrender.com/pair">🌸 SESSION_ID 🌸 ❷</a></tr></button>
+<br>
+<h3>SEVER ➌</h3>
+<div align="center">
+<button><tr><a href="https://express-pairing-code2-1.onrender.com/">🌸 SESSION_ID 🌸 ➌</a></tr></button>
 </div>
 <br>
 
@@ -58,12 +62,12 @@
 --------	 
 1.  #### DEPLOY IN HEROKU 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=new)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/sadiyamin/Lara-MD)
 
 --------
 2.  #### DEPLOY IN REPLIT
 
-   <a href='https://repl.it/github/GlobalTechInfo/SUHAIL-XMD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+   <a href='https://repl.it/github/sadiyamin/Lara-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------
 3.  #### DEPLOY IN KOYEB
